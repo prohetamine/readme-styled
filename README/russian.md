@@ -1,6 +1,6 @@
 ![logo](https://github.com/prohetamine/readme-styled/blob/main/media/logo.png)
 
-##### README доступен на языках: [Russian](https://github.com/prohetamine/readme-styled/blob/main/README/russian.md) | [English](https://github.com/prohetamine/readme-styled/blob/main/README.md)
+##### README доступен на языках: [Русский](https://github.com/prohetamine/readme-styled/blob/main/README/russian.md) | [Английский](https://github.com/prohetamine/readme-styled/blob/main/README.md)
 
 
 # readme-styled
