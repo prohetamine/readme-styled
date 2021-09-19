@@ -3,7 +3,7 @@
 ##### README доступен на языках: [Русский](https://github.com/prohetamine/readme-styled/blob/main/README/russian.md) | [Английский](https://github.com/prohetamine/readme-styled/blob/main/README.md)
 
 
-# readme-styled
+# Readme styled
 
 > readme-styled - Слоган, лозунг, мини история.
 
