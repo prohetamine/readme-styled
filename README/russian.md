@@ -37,7 +37,7 @@ $ ...
 $ ...
 ```
 
-Другие примеры из этого проекта можно найти тут: [examples](https://github.com/prohetamine/readme-styled/blob/main/examples)
+Другие примеры из этого проекта можно найти тут: [примеры](https://github.com/prohetamine/readme-styled/blob/main/examples)
 
 ### Контакты
 
